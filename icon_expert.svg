@@ -1,0 +1,15 @@
+<svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="36" cy="36" r="30" fill="#1a0000" stroke="#E63946" stroke-width="2.5"/>
+  <circle cx="36" cy="36" r="24" fill="#200000" stroke="#E63946" stroke-width="1" opacity="0.6"/>
+  <path d="M12 44 A26 26 0 0 1 60 44" fill="none" stroke="#E63946" stroke-width="0.8" opacity="0.4"/>
+  <path d="M14 50 A26 26 0 0 1 58 50" fill="none" stroke="#E63946" stroke-width="0.8" opacity="0.4"/>
+  <text x="36" y="22" font-size="6" fill="#E63946" text-anchor="middle" font-family="sans-serif" font-weight="700">DEPTH</text>
+  <text x="16" y="50" font-size="5.5" fill="#E63946" text-anchor="middle" font-family="sans-serif" opacity="0.7">0</text>
+  <text x="36" y="14" font-size="5.5" fill="#E63946" text-anchor="middle" font-family="sans-serif" opacity="0.7">10</text>
+  <text x="56" y="50" font-size="5.5" fill="#E63946" text-anchor="middle" font-family="sans-serif" opacity="0.7">30</text>
+  <text x="36" y="56" font-size="7" fill="#E63946" text-anchor="middle" font-family="sans-serif" font-weight="700">40+ m</text>
+  <line x1="36" y1="36" x2="52" y2="22" stroke="#E63946" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="36" cy="36" r="4" fill="#E63946"/>
+  <circle cx="36" cy="36" r="2" fill="#1a0000"/>
+  <text x="36" y="67" font-size="6" fill="#E63946" text-anchor="middle" font-family="sans-serif" font-weight="700">&gt; 60 DIVES</text>
+</svg>
